@@ -1,0 +1,25 @@
+{
+  "name": "real-blog",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+     "React":
+      "useEffect",
+      "useState":
+    "react-router-dom",
+    "BrowserRouter as Router":
+    "Routes",
+    "Route":
+    "Link",
+    "db":
+    "firebase/firestore",
+    "collection":
+    "addDoc",
+    "getDocs":
+    "tailwindcss/tailwind.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
