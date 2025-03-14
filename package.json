@@ -16,9 +16,10 @@
     "collection":
     "addDoc",
     "getDocs":
-    "tailwindcss/tailwind.css"
+    "tailwindcss/tailwind.css",
+    "build"
   },
-  "keywords": [],
+  "keywords":["collection"],
   "author": "",
   "license": "ISC",
   "description": ""
