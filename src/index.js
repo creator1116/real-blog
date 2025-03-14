@@ -3,6 +3,11 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import { db } from "./config/firebase";
 import { collection, addDoc, getDocs } from "firebase/firestore";
 import "tailwindcss/tailwind.css";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+
+ReactDOM.render(<App />, document.getElementById('root'));
 
 const Home = () => {
   const [posts, setPosts] = useState([]);
