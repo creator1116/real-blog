@@ -3,26 +3,17 @@
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "scripts": {
-    "React":
-    "useEffect",
-    "useState":
-    "react-router-dom",
-    "BrowserRouter as Router":
-    "Routes",
-    "Route":
-    "Link",
-    "db":
-    "firebase/firestore",
-    "collection":
-    "addDoc",
-    "getDocs":
-    "tailwindcss/tailwind.css",
-    "build":
+    "React": "useEffect",
+    "useState": "react-router-dom",
+    "BrowserRouter as Router": "Routes",
+    "Route": "Link",
+    "db": "firebase/firestore",
+    "collection": "addDoc",
+    "getDocs": "tailwindcss/tailwind.css",
+    "build": "npm run build"
   },
-
-"keywords":["forum", "cool"],
-"author": "Mai Wang",
-"license": "ISC",
-"description": "Super Cool"
-    
+  "keywords": ["forum", "cool"],
+  "author": "Mai Wang",
+  "license": "ISC",
+  "description": "Super Cool"
 }
