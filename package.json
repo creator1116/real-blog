@@ -16,4 +16,8 @@
   "author": "Mai Wang",
   "license": "ISC",
   "description": "Super Cool"
+   "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
 }
