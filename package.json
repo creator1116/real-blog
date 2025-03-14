@@ -17,10 +17,6 @@
     "addDoc",
     "getDocs":
     "tailwindcss/tailwind.css",
-    "build"
-  },
-  "keywords":["collection"],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "build":
+  }
 }
