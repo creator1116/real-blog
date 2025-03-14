@@ -10,7 +10,7 @@
     "db": "firebase/firestore",
     "collection": "addDoc",
     "getDocs": "tailwindcss/tailwind.css",
-    "build": "npm run build"
+    "build": "react-scripts build"
   },
   "keywords": ["forum", "cool"],
   "author": "Mai Wang",
